@@ -1,2 +1,2 @@
-include ':app', ':googlevrsdk'
+include ':fantasee', ':googlevrsdk'
 rootProject.name='FantaSEE'
